@@ -11,3 +11,8 @@ build-your-own-react 自定义实现一个react
 - Step VI: Reconciliation
 - Step VII: Function Components
 - Step VIII: Hooks
+
+#### src文件目录功能如下：
+- react.js： 实现createElement
+- react_dom.js:  实现ReactDOM.render
+- schedule.js:  实现Concurrent Mode
