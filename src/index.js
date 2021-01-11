@@ -1,4 +1,5 @@
 import React from './react.js'
+import ReactDOM from './react_dom.js'
 
 /* jsx
 const element = (
@@ -18,4 +19,4 @@ const element = React.createElement(
 console.log(element)
 
 const container = document.getElementById("root")
-// ReactDOM.render(element, container)
+ReactDOM.render(element, container)
